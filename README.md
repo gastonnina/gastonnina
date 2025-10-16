@@ -76,14 +76,6 @@ from backend APIs ⚙️ and dashboards 📊 to machine learning pipelines 🤖 
 
 ---
 
-## 🧩 Current Projects
-
-- 🤖 **Strategic Planner GenAI** → Node.js + Gemini + Firestore for AI-driven strategic planning  
-- 🧠 **NLP Research:** *TF-IDF based classification of Spanish song lyrics* 🎵  
-- 🗂️ **Municipal Data ETL:** Cleaning & visualizing open data from La Paz using Pandas + Great Expectations  
-
----
-
 ## 📊 GitHub Stats
 
 <p align="center">
